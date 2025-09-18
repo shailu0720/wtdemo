@@ -6,7 +6,7 @@ With a responsive design and real-time updates, QuickCare ensures a smooth exper
 ---
 
 ## 🔗 Live Demo
-[🌐 Click here to try QuickCare](https://shailu0720.github.io/wtdemo/)
+[🌐 Click here to try QuickCare](https://shailu0720.github.io/QuickCare/)
 
 ---
 
